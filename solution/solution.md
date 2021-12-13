@@ -18,7 +18,7 @@ Solutions
 
 #### 1. Find relevant corpora using CLARIN
 
-- Go to CLARIN starting page (http://www.clarin.si/info/about/). Click on REPOSITORY > CLARIN.SI repository 
+- Go to CLARIN starting page (http://www.clarin.si/info/about/). Click on REPOSITORY > CLRAIN.SI repository 
 
 <img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture1-1.jpg" alt="web page 1-1" width="610"/>
 
@@ -276,7 +276,7 @@ Also, all of these corpora are available in the NoSketchEngine and KonTekst conc
 
 - Scroll down to **Overview of available corpora** table
 
-<img src="https://github.com/clarinsi/workshop_reg_mark/blob/4cd7d32780bde7bc689acb0488610ce513b1d6b7/solution/images/Capture2-2.JPG" alt="web page 2-2" width="610"/>
+<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture2-2.JPG" alt="web page 2-2" width="610"/>
 
 To perform a search in a specific corpus, click on the corpus name in the **Search** column.
 
@@ -287,11 +287,11 @@ A new window will appear with Corpus info for selected corpus.
 
 - Click on the **Search** option on the left-hand menu.
 
-<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture2-3.jpg" alt="web page 2-3" width="610"/>
+<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture2-3.JPG" alt="web page 2-3" width="610"/>
 
 - In the **Search** tab, click on the **Query types** to expand the search form
 
-<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture2-4.jpg" alt="web page 2-4" width="410"/>
+<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture2-4.JPG" alt="web page 2-4" width="410"/>
 
 <br />
 
@@ -303,21 +303,21 @@ A new window will appear with Corpus info for selected corpus.
 
 - Select **CQL** radio button and and the **CQL:** search box will become active.
 
-<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture2-5.jpg" alt="web page 2-5" width="410"/>
+<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture2-5.JPG" alt="web page 2-5" width="410"/>
 
 - To search for "direktor" lemma, enter the following regular expression in the search box: [lemma="direktor"]. Then click **Make Concordance** button or press Enter.
 
 
-<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture2-6.jpg" alt="web page 2-6" width="410"/>
+<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture2-6.JPG" alt="web page 2-6" width="410"/>
 
 
 The search results page is displayed with the number of hits and the number per million words of a given lemma, in this case "direktor".
 
-<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture2-7.jpg" alt="web page 2-7" width="610"/>
+<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture2-7.JPG" alt="web page 2-7" width="610"/>
 
-Or you can click the info icon <img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture2-8.jpg" alt="web page 2-8" width="15"/>), and **Concordance description** tab pops out with basic information.
+Or you can click the info icon <img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture2-8.JPG" alt="web page 2-8" width="15"/>), and **Concordance description** tab pops out with basic information.
 
-<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture2-9.jpg" alt="web page 2-9" width="410"/>
+<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture2-9.JPG" alt="web page 2-9" width="410"/>
 
 <br />
 
@@ -340,7 +340,7 @@ OR
 
 You can select another corpus from the dropdown list in the **Corpus** field of the search form
 
-<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture2-10.jpg" alt="web page 2-10" width="410"/>
+<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture2-10.JPG" alt="web page 2-10" width="410"/>
 
 - Repeat queries in all relevant corpora for all relevant lemmas.
 
@@ -351,7 +351,7 @@ You can select another corpus from the dropdown list in the **Corpus** field of 
 - Click on the **South Slavic** option under **Other languages** menu.
 This opens an expanded list of South Slavic corpora with basic information about features, languages and sizes.
 
-<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture3-1.jpg" alt="web page 3-1" width="610"/>
+<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture3-1.JPG" alt="web page 3-1" width="610"/>
 
 <br />
 
@@ -361,22 +361,22 @@ Slovenian corpora are listed separately at the beginning of the table. Expand th
 
 <br />
 
-<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture3-2.jpg" alt="web page 3-2" width="610"/>
+<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture3-2.JPG" alt="web page 3-2" width="610"/>
 
 - Click **slWaC (Slovene Web)**
 
 A new window with the search form will be diplayed. Again, we will be using CQL sintax, so click on the arrow to expand the **Query Type** dropdown list and select **CQL**
 
 
-<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture3-3.jpg" alt="web page 3-3" width="410"/>
+<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture3-3.JPG" alt="web page 3-3" width="410"/>
 
 The **Query** field changes to **CQL**. Enter **[lemma="direktor"]** in the search box and click the **Search** button or press Enter.
 
-<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture3-4.jpg" alt="web page 3-4" width="410"/>
+<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture3-4.JPG" alt="web page 3-4" width="410"/>
 
 The search results page is displayed with the number of hits, instances per million positions (i.p.m.), average reduced frequency (ARF) and other info for a given lemma, in this case "direktor".
 
-<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture3-5.jpg" alt="web page 3-5" width="610"/>
+<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture3-5.JPG" alt="web page 3-5" width="610"/>
 
 <br />
 
@@ -561,7 +561,7 @@ To search specific grammar form of a word in corups, please review morphosyntact
 In [noSketchEngine](https://www.clarin.si/noske/index.html)
 - Select corpus from the **Overview of available corpora** table and on **Corpus info** tab click **Description** in the **Tagset** row of **General info** table
 
-<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture4-1.jpg" alt="web page 4-1" width="410"/>
+<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture4-1.JPG" alt="web page 4-1" width="410"/>
 
 
 OR
@@ -569,7 +569,7 @@ OR
 - Click **Tagset Summary** on the **Search** form
 
 
-<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture4-2.jpg" alt="web page 4-2" width="410"/>
+<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture4-2.JPG" alt="web page 4-2" width="410"/>
 
 <br />
 
@@ -579,11 +579,11 @@ In [KonTekst](https://www.clarin.si/kontext/corpora/corplist)
 
 - After selecting **CQL** in **Query Type** dropdown list, click **Tagset summary** 
 
-<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture4-3.jpg" alt="web page 4-3" width="410"/>
+<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture4-3.JPG" alt="web page 4-3" width="410"/>
 
 - Check **MSD index** to find tags that can be used in this task
 
-<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture4-4.jpg" alt="web page 4-4" width="610"/>
+<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture4-4.JPG" alt="web page 4-4" width="610"/>
 
 - Go to https://www.sketchengine.eu/documentation/cql-basics/#start for detailed syntax rules.
 
@@ -595,7 +595,7 @@ To find feminine or masculine subjects for a particular verb, we need a verb for
 
 - Go to **MSD index** and find the tags for partiples
 
-<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture4-5.jpg" alt="web page 4-5" width="610"/>
+<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture4-5.JPG" alt="web page 4-5" width="610"/>
 
 NOTE: srWaC, hrWaC, bsWaC and meWaC are using the same tagset (Serbo-Croatian MSD), while slWac has different tagset
 
@@ -623,9 +623,9 @@ slWaC:
 
 On the [CQL basics](https://www.sketchengine.eu/documentation/cql-basics/#start) page find the rules of the CQL syntax:
 
-<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture4-6.jpg" alt="web page 4-6" width="410"/>
+<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture4-6.JPG" alt="web page 4-6" width="410"/>
 
-<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture4-7.jpg" alt="web page 4-7" width="410"/>
+<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture4-7.JPG" alt="web page 4-7" width="410"/>
 
 In the **CQL** search field, enter 
 
