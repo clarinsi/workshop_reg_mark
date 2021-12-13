@@ -20,7 +20,7 @@ Solutions
 
 - Go to CLARIN starting page (http://www.clarin.si/info/about/). Click on REPOSITORY > CLARIN.SI repository 
 
-<img src="../images/Capture1-1.jpg" alt="web page 1-1" width="610"/>
+<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture1-1.jpg" alt="web page 1-1" width="610"/>
 
 
 - On the **Repository** page, click **advanced search**.
