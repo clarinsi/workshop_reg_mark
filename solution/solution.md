@@ -276,7 +276,7 @@ Also, all of these corpora are available in the NoSketchEngine and KonTekst conc
 
 - Scroll down to **Overview of available corpora** table
 
-<img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture2-2.jpg" alt="web page 2-2" width="610"/>
+<img src="https://github.com/clarinsi/workshop_reg_mark/blob/4cd7d32780bde7bc689acb0488610ce513b1d6b7/solution/images/Capture2-2.JPG" alt="web page 2-2" width="610"/>
 
 To perform a search in a specific corpus, click on the corpus name in the **Search** column.
 
