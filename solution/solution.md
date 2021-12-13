@@ -18,7 +18,7 @@ Solutions
 
 #### 1. Find relevant corpora using CLARIN
 
-- Go to CLARIN starting page (http://www.clarin.si/info/about/). Click on REPOSITORY > CLRAIN.SI repository 
+- Go to CLARIN starting page (http://www.clarin.si/info/about/). Click on REPOSITORY > CLARIN.SI repository 
 
 <img src="https://github.com/clarinsi/workshop_reg_mark/blob/27f14021318d8acfda8bc5f33254694452eb28ee/solution/images/Capture1-1.jpg" alt="web page 1-1" width="610"/>
 
