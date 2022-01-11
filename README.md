@@ -7,4 +7,4 @@ The materials consist of:
 - worksheet (a single file in two versions, .md and .pdf)
 - solution (a folder containing the main file in two versions, .md and .pdf and all the images displayed by the .md)
 
-The materials are intended for publishing by CLASSLA without restrictions. They are created by members of the ReLDI Centre Belgrade, contact reldi.centre@gmail.com
+The materials are intended for publishing by CLASSLA without restrictions. They are created by members of the ReLDI Centre Belgrade, Tanja Samardžić and Mira Starović. For inquiries, contact reldi.centre@gmail.com.
